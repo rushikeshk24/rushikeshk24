@@ -73,5 +73,5 @@ OOP | Backend Architecture | API Development | Database Design
 
 ### 📫 Connect With Me
 
-LinkedIn: https://linkedin.com/  
-GitHub: https://github.com/
+LinkedIn: https://www.linkedin.com/in/rushikesh-karlekar-86033126a/  
+GitHub: https://github.com/rushikeshk24
