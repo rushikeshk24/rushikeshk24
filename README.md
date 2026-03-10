@@ -12,7 +12,6 @@ problems using modern web technologies and AI-based solutions.
 ### 👨‍💻 About Me
 
 🎓 B.E. Information Technology Student  
-💻 MERN Stack Developer Intern at **DXSure CRM**  
 🚀 Passionate about **Full Stack Development, AI Systems, and Scalable Applications**  
 📚 Strong foundation in **REST APIs, Backend Architecture, and Database Design**
 
@@ -20,7 +19,7 @@ problems using modern web technologies and AI-based solutions.
 
 ### 🏢 Internship Experience
 
-**MERN Stack Developer Intern – DXSure CRM**
+**MERN Stack Developer Intern – Anvistar ITS Pvt. Ltd.**
 
 • Working on a CRM-based client management system  
 • Building and improving REST APIs using MERN stack  
